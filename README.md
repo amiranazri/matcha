@@ -50,7 +50,6 @@ The app must allow a user to register asking at least an email address, a userna
 The user must then be able to connect with his/her username and password. He/She must be able to receive an email allowing him/her to re-initialize his/her password should the first one be forgotten and disconnect with 1 click from any pages on the site.<br>
 
 ### User profile
-<br>
 Once connected, a user must fill his or her profile, adding the following information:<br>
 ◦ The gender.<br>
 ◦ Sexual preferences.<br>
@@ -66,7 +65,6 @@ Note: At any time, the user must be able to modify the above fields of informati
 <br>
 
 ### Browsing
-
 The user must be able to easily get a list of suggestions that match his/her profile.<br>
 <br>
 • You will only propose relevant profiles, for example, only men for a heterosexual female.<br>
@@ -79,8 +77,8 @@ You must cleverly match3 profiles:<br>
 ◦ You must show in priority people from the same geographical area.<br>
 ◦ The list must be sortable by age, localization, “fame rating” and common tags.<br>
 ◦ The list must be filterable by age, localization, “fame rating” and common tags.<br>
-<br>
-### Research<br>
+
+### Research
 The user must be able to run an advanced research selecting one or a few criterias such as:<br>
 • A age gap.<br>
 • A “fame rating” gap.<br>
@@ -88,9 +86,7 @@ The user must be able to run an advanced research selecting one or a few criteri
 • One or multiple interests tags.<br>
 <br>
 As per the suggested list, the resulting list must be sortable and filterable by age, location, “fame rating” and tags.<br>
-<br>
-### Profile of other users<br>
-
+### Profile of other users <br>
 A user must be able to consult the profile of other users. Profiles must contain all the information available about them, except for the email address and the password. When a user consults a profile, it must appear in his/her visit history.<br>
 <br>
 The user must also be able to:<br>
@@ -101,13 +97,10 @@ The user must also be able to:<br>
 ◦ Report the user as a “fake account”.<br>
 ◦ Block the user. A blocked user won’t appear anymore in the research results and won’t generate additional notifications.<br>
 ◦ A user must be able to clearly see if the consulted profile is connected or “like” his/her profile and must be able to “unlike” or be disconnected from that profile.<br>
-
-### Chat<br>
-<br>
+### Chat
 When two users are connected,they must be able to “chat” in real time. How you will implement the chat is totally up to you. The user must be able to see from any page if a new message is received.<br>
 <br>
 ### Notifications
-<br>
 A user must be notified in real time of the following events:<br>
 ◦ The user received a “like”.<br>
 ◦ The user’s profile has been checked.<br>

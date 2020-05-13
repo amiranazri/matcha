@@ -7,7 +7,6 @@ Framework: Flask.<br>
 DB: MongoDB<br>
 
 ## General Instructions
-
 • For this project you are free to use the language you want.<br>
 • You can use micro-frameworks, and all the libraries in the world for this project.<br>
 • We will consider that a “micro-framework” has a router, and eventually templating, but no ORM, validators or User Accounts Manager.<br>
@@ -39,17 +38,17 @@ All your forms must include all the correct validations, and the whole website m
 ◦ To be able to alter a SQL request.<br>
 <br>
 You can ask your questions on public forums, or ask your colleagues via Slack.<br>
-<br>
+
 ## Mandatory Section
 <br>
 You will need to create a Web App with the following features:
-<br>
+
 ### Registration and Signing-in
 <br>
 The app must allow a user to register asking at least an email address, a username, a last name, a first name and a password that is somehow protected. After the registration, an e-mail with an unique link must be sent to the registered user to verify his account.<br>
 <br>
 The user must then be able to connect with his/her username and password. He/She must be able to receive an email allowing him/her to re-initialize his/her password should the first one be forgotten and disconnect with 1 click from any pages on the site.<br>
-<br>
+
 ### User profile
 <br>
 Once connected, a user must fill his or her profile, adding the following information:<br>
@@ -65,8 +64,9 @@ Once connected, a user must fill his or her profile, adding the following inform
 <br>
 Note: At any time, the user must be able to modify the above fields of information, including the first name, last name, and email address.<br>
 <br>
+
 ### Browsing
-<br>
+
 The user must be able to easily get a list of suggestions that match his/her profile.<br>
 <br>
 • You will only propose relevant profiles, for example, only men for a heterosexual female.<br>
